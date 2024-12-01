@@ -3,7 +3,7 @@
 [p5.js](https://p5js.org) is a JavaScript library for creative coding.
 
 This project is a “starter kit” for using Visual Studio Code, Atom, or another
-code editor running on your computer, for local development of p5.js projects.
+code editor running on your computer, for  development of p5.js projects in the web browser.
 
 ## Instructions
 
