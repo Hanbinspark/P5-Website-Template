@@ -17,6 +17,10 @@ code editor running on your computer, for  development of p5.js projects in the 
 More detailed instructions on how to use this with Visual Studio Code are
 [here](https://notes.osteele.com/tools/vscode/p5js).
 
+
+<https://editor.p5js.org/> is a good plave where you can generate the files needed from an online ide editor and then upload to github
+
+
 ## License
 
 MIT
